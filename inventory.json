@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "name": "M6x20 Zylinderschrauben",
+    "barcode": "4012345678901",
+    "locationLetter": "A",
+    "locationNumber": 1,
+    "quantity": 120,
+    "minQuantity": 50,
+    "category": "Schrauben & Muttern",
+    "notes": "Edelstahl V2A"
+  },
+  {
+    "id": "2",
+    "name": "Kugellager 608-2RS",
+    "barcode": "4012345678902",
+    "locationLetter": "B",
+    "locationNumber": 2,
+    "quantity": 8,
+    "minQuantity": 15,
+    "category": "Kugellager",
+    "notes": "Nachbestellung erforderlich!"
+  },
+  {
+    "id": "3",
+    "name": "Kabelbinder 200x3.6mm",
+    "barcode": "4012345678903",
+    "locationLetter": "C",
+    "locationNumber": 3,
+    "quantity": 450,
+    "minQuantity": 100,
+    "category": "Montagematerial",
+    "notes": "Schwarz, UV-beständig"
+  },
+  {
+    "id": "4",
+    "name": "Schrumpfschlauch Sortiment",
+    "barcode": "4012345678904",
+    "locationLetter": "D",
+    "locationNumber": 1,
+    "quantity": 3,
+    "minQuantity": 5,
+    "category": "Elektrik",
+    "notes": "Niedriger Bestand"
+  },
+  {
+    "id": "5",
+    "name": "Winkelschleifer Trennscheiben 125mm",
+    "barcode": "4012345678905",
+    "locationLetter": "E",
+    "locationNumber": 4,
+    "quantity": 25,
+    "minQuantity": 10,
+    "category": "Werkzeug & Zubehör",
+    "notes": "Edelstahl-Trennscheiben 1mm"
+  }
+]
